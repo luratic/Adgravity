@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/adgravity/"
+versions:
+  - sha: c5c65c995e325d49917b2a6edc7237331f50c904
+    changeNotes: Initial release
